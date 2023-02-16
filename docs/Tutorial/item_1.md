@@ -1,8 +1,3 @@
----
-title: Installation
----
-
-
 ## Installation
 
 Run next command:
